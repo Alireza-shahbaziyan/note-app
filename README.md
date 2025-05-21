@@ -31,7 +31,7 @@ The purpose of this project is to provide a very basic but practical example of:
 
    ```bash
    node server.js
-````
+
 
 2. Open your browser and go to:
 
