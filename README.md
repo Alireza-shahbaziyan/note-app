@@ -57,11 +57,3 @@ The purpose of this project is to provide a very basic but practical example of:
 * Feel free to extend and improve the app as you learn more about Node.js.
 
 ---
-
-## License
-
-This project is open-source and free to use for learning.
-
-```
-
----
