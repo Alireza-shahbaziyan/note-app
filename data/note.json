@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a1b2c3d4",
+        "text": "Example note",
+        "createdAt": "2025-05-20T10:00:00Z",
+        "updatedAt": null,
+        "isArchived": false,
+        "tags": ["work", "important"],
+        "priority": "normal"
+      }
+      
+]
